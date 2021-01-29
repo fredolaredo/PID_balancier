@@ -21,3 +21,7 @@ capteur de distance sharp 2Y1A02
 ## alimentation
 
 entre 9v et 12v pour driver et uC
+
+## modelisation 3D
+
+![](https://github.com/fredolaredo/PID_balancier/blob/main/3D/PID.jpeg)
